@@ -9,7 +9,7 @@ An agent you schedule overnight needs six things a supervised one can borrow fro
 
 ## Steps
 
-1. Install the scanner: `pipx install git+https://github.com/shahabajsk/walkaway`
+1. Install the scanner (public from 17 November 2026): `pipx install git+https://github.com/shahabajsk/walkaway`
 2. Scan: `walkaway scan . -f json -o walkaway.json --fail-below none`
 3. For each loop below L3, fix the findings in this order: blast radius (untrusted triggers, injection, permission bypass), then stop conditions, budget, verifier, escalation, state. `walkaway explain <RULE>` prints the reason and the fix for any rule.
 4. Rescan. The scanner is the verifier, not your judgement: a fix counts when `walkaway scan .` reports L3 for that loop.
