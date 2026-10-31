@@ -61,7 +61,7 @@ GATE: FAIL
   - escalation recall 0.833 is below the floor 0.950
 ```
 
-A single-run accuracy of 85% would have looked shippable. Across four tries, only half the cases are handled right every time, two of twelve required escalations never reached a human, and one trial issued travel credit where a refund to the original payment was required. Under US rules for cancelled flights that is a compliance error, which is why refund cases are marked `critical`.
+A single-run accuracy of 85% would have looked shippable. Across four tries, only half the cases are handled right every time, 2 of 12 escalation trials (3 cases, 4 tries each) never reached a human, both on the same case, and one trial issued travel credit where a refund to the original payment was required. Under US rules for cancelled flights that is a compliance error, which is why refund cases are marked `critical`.
 
 **Rollout runbook** starts the agent in shadow mode on rebookings only. **Regulated readiness** flags that agent traces contain passenger data and were going to a general log store. **Stakeholder readout** goes to the head of operations: "At risk: rebooking accuracy is close to the floor, escalation recall is not. Decision needed: approve two more weeks of shadow mode, by Friday."
 

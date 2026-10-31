@@ -92,4 +92,4 @@ The `examples/` folder holds a synthetic airline-disruption queue: 12 cases, 4 t
 python scripts/evalkit.py examples/golden.jsonl examples/predictions.jsonl --gate --min-pass-k 0.8 --min-recall 0.95
 ```
 
-It reports 85.4% accuracy and 50.0% pass^4, misses 2 of 12 required escalations, and fails the gate on one critical error: a travel credit issued where a refund to the original payment was due.
+It reports 85.4% accuracy and 50.0% pass^4, misses 2 of 12 escalation trials (3 cases, 4 tries each, both misses on case D11), and fails the gate on one critical error: a travel credit issued where a refund to the original payment was due.
