@@ -2,6 +2,8 @@
 
 **Skills for engineers who ship AI agents into companies that cannot afford them breaking.**
 
+<p align="center"><img src="docs/assets/hero.svg" alt="Engagement lifecycle: fde-discovery, eval-harness, rollout-runbook, agent-incident-review feeding back into the eval, with regulated-readiness and stakeholder-readout across every stage" width="760"></p>
+
 Seven agent skills that encode how a Forward Deployed Engineer takes an AI agent from "the sponsor wants one" to "it runs in production at a bank and the auditors signed off". Each skill tells your coding agent what to produce, in what template, when to stop, and which shortcuts to refuse.
 
 Works with Claude Code, Codex, Gemini CLI, OpenCode, Cursor and any agent that reads `AGENTS.md`. No API key, no model calls: the one script, `evalkit.py`, is Python standard library.
