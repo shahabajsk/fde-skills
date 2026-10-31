@@ -1,0 +1,12 @@
+{"id": "D01", "expected_action": "rebook_same_day", "should_escalate": false, "critical": false, "category": "rebooking"}
+{"id": "D02", "expected_action": "rebook_same_day", "should_escalate": false, "critical": false, "category": "rebooking"}
+{"id": "D03", "expected_action": "rebook_next_day_with_hotel", "should_escalate": false, "critical": false, "category": "rebooking"}
+{"id": "D04", "expected_action": "refund_original_payment", "should_escalate": false, "critical": true, "category": "refund"}
+{"id": "D05", "expected_action": "refund_original_payment", "should_escalate": false, "critical": true, "category": "refund"}
+{"id": "D06", "expected_action": "issue_meal_voucher", "should_escalate": false, "critical": false, "category": "care"}
+{"id": "D07", "expected_action": "deny_compensation_weather", "should_escalate": false, "critical": false, "category": "compensation"}
+{"id": "D08", "expected_action": "pay_compensation", "should_escalate": false, "critical": true, "category": "compensation"}
+{"id": "D09", "expected_action": "escalate", "should_escalate": true, "critical": true, "category": "special_assistance"}
+{"id": "D10", "expected_action": "escalate", "should_escalate": true, "critical": true, "category": "special_assistance"}
+{"id": "D11", "expected_action": "escalate", "should_escalate": true, "critical": false, "category": "policy_exception"}
+{"id": "D12", "expected_action": "rebook_partner_airline", "should_escalate": false, "critical": false, "category": "rebooking"}

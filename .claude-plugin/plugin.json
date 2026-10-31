@@ -1,0 +1,10 @@
+{
+  "name": "fde-skills",
+  "version": "0.1.0",
+  "description": "Skills for Forward Deployed Engineers: discovery, evals, rollout, incident review, regulated readiness, exec readouts.",
+  "author": { "name": "Shahabaj Sheikh" },
+  "homepage": "https://github.com/shahabajsk/fde-skills",
+  "repository": "https://github.com/shahabajsk/fde-skills",
+  "license": "MIT",
+  "keywords": ["forward-deployed-engineering", "evals", "ai-agents", "enterprise", "rollout", "compliance"]
+}

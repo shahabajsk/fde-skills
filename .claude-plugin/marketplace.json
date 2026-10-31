@@ -1,0 +1,12 @@
+{
+  "name": "fde-skills",
+  "description": "Skills for engineers who ship AI agents into regulated enterprises",
+  "owner": { "name": "Shahabaj Sheikh" },
+  "plugins": [
+    {
+      "name": "fde-skills",
+      "source": "./",
+      "description": "Discovery, eval harness, rollout runbook, incident review, regulated readiness, stakeholder readout, unattended readiness"
+    }
+  ]
+}
