@@ -1,6 +1,18 @@
-# fde-skills
+<div align="center">
 
-**Skills for engineers who ship AI agents into companies that cannot afford them breaking.**
+<h1>fde-skills</h1>
+
+<p><b>Skills for engineers who ship AI agents into companies that cannot afford them breaking.</b></p>
+
+<a href="https://github.com/shahabajsk/fde-skills/actions/workflows/ci.yml"><img src="https://github.com/shahabajsk/fde-skills/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+<img src="https://img.shields.io/badge/skills-7-d97757" alt="7 skills">
+<img src="https://img.shields.io/badge/API%20key-none-informational" alt="No API key">
+<img src="https://img.shields.io/badge/works%20with-Claude%20Code%20%C2%B7%20Codex%20%C2%B7%20Gemini%20CLI%20%C2%B7%20Cursor-555" alt="Works with Claude Code, Codex, Gemini CLI, Cursor">
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT license"></a>
+
+<p><a href="#the-skills">The skills</a> · <a href="#install">Install</a></p>
+
+</div>
 
 <p align="center"><img src="docs/assets/hero.svg" alt="Engagement lifecycle: fde-discovery, eval-harness, rollout-runbook, agent-incident-review feeding back into the eval, with regulated-readiness and stakeholder-readout across every stage" width="760"></p>
 
