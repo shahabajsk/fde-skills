@@ -86,6 +86,6 @@ Tests check the eval maths (including the pass^k estimator from [tau-bench](http
 
 Shahabaj Sheikh, AI Solutions Architect working forward-deployed on production agentic AI for enterprises in airlines and banking. [LinkedIn](https://www.linkedin.com/in/shahabaj)
 
-Also by the author: [walkaway](https://github.com/shahabajsk/walkaway) (can you leave your agent loop running unattended? Public from 17 November 2026) and [paranoid-sre](https://github.com/shahabajsk/paranoid-sre).
+Also by the author: [walkaway](https://github.com/shahabajsk/walkaway) (can you leave your agent loop running unattended? public from 1 December 2026) and [paranoid-sre](https://github.com/shahabajsk/paranoid-sre).
 
 MIT licensed.
